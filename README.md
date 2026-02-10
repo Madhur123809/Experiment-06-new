@@ -47,18 +47,15 @@ Q1: Check if a Number is Positive, Negative, or Zero
 
 Start
 
-Accept a floating-point number as input.
+1.Accept a floating-point number as input.
 
-If number > 0, print "The number is positive."
+2.If number > 0, print "The number is positive."
 
-Else if number < 0, print "The number is negative."
+3.Else if number < 0, print "The number is negative."
 
-Else, print "The number is zero."
+4.Else, print "The number is zero."
 
-Stop
-
-
-
+5. Stop
 
 
 
@@ -66,17 +63,17 @@ Q2: Check if a Number is Even or Odd
 
 
 
-Start
+1.Start
 
-Accept a floating-point number as input.
+1.Accept a floating-point number as input.
 
-Compute number % 2.
+2.Compute number % 2.
 
-If remainder == 0, print "The number is even."
+3.If remainder == 0, print "The number is even."
 
-Else, print "The number is odd."
+4,Else, print "The number is odd."
 
-Stop
+5.Stop
 
 
 
@@ -85,17 +82,17 @@ Stop
 Q3: Find the Greatest Among Three Numbers
 
 
-Start
+1.Start
 
-Accept three numbers a, b, c as input.
+2,.Accept three numbers a, b, c as input.
 
-If a > b AND a > c, print "a is greater."
+3.If a > b AND a > c, print "a is greater."
 
-Else if b > a AND b > c, print "b is greater."
+4.Else if b > a AND b > c, print "b is greater."
 
-Else, print "c is greater."
+5.Else, print "c is greater."
 
-Stop
+6.Stop
 
 
 
